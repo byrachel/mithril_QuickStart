@@ -12,6 +12,18 @@ body, .input, .button {
     margin: 0 0 30px;
 }
 
+.title {
+    color: grey;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.subtitle {
+    color: grey;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: lighter;
+}
+
 .user-list {
     list-style: none;
     margin: 0 0 10px;
